@@ -1,11 +1,5 @@
 # Malas finanzas
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Webflow Cloud](https://img.shields.io/badge/Deploy-Webflow%20Cloud-146EF5?logo=webflow&logoColor=white)
-![Nerdearla 2026](https://img.shields.io/badge/Nerdearla-2026-7B3FE4)
-
 Calculadora de ingresos y egresos que muestra tu balance al instante, lo grafica por categoría y te deja descargar todo en Excel o PDF.
 
 ![Vista principal de Malas finanzas](docs/captura-principal.png)
@@ -27,7 +21,6 @@ Más información en la [página oficial del desafío](https://nerdearla-app-sho
 - **Exportación a PDF:** genera un reporte con los totales y la tabla completa de movimientos.
 - **Datos persistentes:** los movimientos se guardan en el navegador, así que no se pierden al recargar la página.
 
-## Capturas
 
 | Carga de movimientos y balance | Gráfico por categoría |
 | --- | --- |
